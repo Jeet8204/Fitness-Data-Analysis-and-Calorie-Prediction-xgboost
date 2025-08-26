@@ -58,3 +58,14 @@ Clone the repository:
 ```bash
 git clone https://github.com/your-username/calories-burnt-prediction.git
 cd calories-burnt-prediction
+
+---
+## Install dependencies
+
+pip install -r requirements.txt
+
+ ---
+## Run Jupyter Notebook
+
+jupyter notebook Calories_Prediction.ipynb
+---
